@@ -1,4 +1,4 @@
-# bmi_calculator
+# BMI_Calculator
 
 BMI Calculator Project.
 
